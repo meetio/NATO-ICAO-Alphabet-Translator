@@ -1,0 +1,13 @@
+{
+    "name": "meetio/nato-icao-alphabet-translator",
+    "description": "Simple helper for translating a string into each characters NATO ICAO pronunciation",
+    "type": "package",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Johan Nordstrom",
+            "email": "johan@digitalvillage.se"
+        }
+    ],
+    "require": {}
+}
